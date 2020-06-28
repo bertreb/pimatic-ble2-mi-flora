@@ -1,0 +1,35 @@
+{
+  "name": "pimatic-ble2-mi-flora",
+  "description": "Gets information from Xiaomi Mi Flora devices",
+  "author": "Rogier van Staveren <rogier@staveren.net>",
+  "main": "mi-flora",
+  "files": [
+    "mi-flora.coffee",
+    "README.md",
+    "mi-flora-config-schema.coffee",
+    "device-config-schema.coffee",
+    "LICENSE"
+  ],
+  "license": "GPL-2.0",
+  "version": "0.0.9",
+  "homepage": "https://github.com/bertreb/pimatic-ble2-mi-flora",
+  "configSchema": "mi-flora-config-schema.coffee",
+  "peerDependencies": {
+    "pimatic": ">=0.8.0 <1.0.0",
+    "pimatic-ble2": ">=0.9.3"
+  },
+  "engines": {
+    "node": ">0.8.x",
+    "npm": ">1.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertreb/pimatic-ble2-mi-flora.git"
+  },
+  "keywords": [
+    "pimatic"
+  ],
+  "bugs": {
+    "url": "https://github.com/bertreb/pimatic-ble2-mi-flora/issues"
+  }
+}
