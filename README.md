@@ -5,4 +5,4 @@ This plugin is based on pimatic-ble-mi-flora from [https://github.com/rrooggiiee
 
 To use this plugin pimatic-ble2 must be installed.
 
-For the [installation and usage instructions](https://github.com/rrooggiieerr/pimatic-ble-mi-flora)
+For [installation and usage instructions](https://github.com/rrooggiieerr/pimatic-ble-mi-flora)
